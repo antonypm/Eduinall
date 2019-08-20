@@ -1,4 +1,4 @@
-# ecommerce-ajce
+# Eduinall
 # Members:
   - Antony P Mathew  
   - Dominic K Savio  
