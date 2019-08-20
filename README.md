@@ -1,14 +1,14 @@
 # ecommerce-ajce
 # Members:
-  Antony P Mathew  
-  Dominic K Savio  
-  Shanu P Shaji  
-  Don Jose  
+  - Antony P Mathew  
+  - Dominic K Savio  
+  - Shanu P Shaji  
+  - Don Jose  
 # Subject: 
-  Bookstore  
+  - Bookstore  
          -  Rental  
          -  Sale  
-  Language Game  
-  Tutor Locator  
-  Podcasts  
+  - Language Game  
+  - Tutor Locator  
+  - Podcasts  
   
