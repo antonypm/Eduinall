@@ -6,8 +6,8 @@
   Don Jose  
 # Subject: 
   Bookstore  
-        -Rental  
-        -Sale  
+         -Rental  
+         -Sale  
   Language Game  
   Tutor Locator  
   Podcasts  
