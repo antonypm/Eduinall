@@ -6,3 +6,9 @@
   Don Jose
 # Subject: 
   Bookstore
+    -Rental
+    -Sale
+  Language Game
+  Tutor Locator
+  Podcasts
+  
